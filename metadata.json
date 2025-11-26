@@ -1,0 +1,8 @@
+{
+  "name": "NebulaOS",
+  "description": "A next-generation web operating system blending the best of desktop and mobile interfaces with integrated AI capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
